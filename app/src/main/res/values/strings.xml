@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExemploConverterMoeda</string>
+    <string name="txt_converter">Digite a quantidade em reais que deseja converter:</string>
+    <string name="txt_dolar">Dólar</string>
+    <string name="txt_euro">Euro</string>
+</resources>
